@@ -26258,6 +26258,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     h2.u-subtitle
     {
@@ -26266,6 +26267,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     h1:not(.u-title)
     {
@@ -26274,6 +26276,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     h2:not(.u-subtitle)
     {
@@ -26282,6 +26285,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     h3
     {
@@ -26290,6 +26294,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     h4
     {
@@ -26298,6 +26303,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     h5
     {
@@ -26306,6 +26312,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     h6
     {
@@ -26314,12 +26321,14 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     p.u-large-text
     {
         font-size: 1.25rem;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Bai Jamjuree;
     }
     p.u-small-text
     {
@@ -26455,14 +26464,14 @@ a.u-link.u-text-hover-grey-90:hover {
     .u-image:not(.u-shading) > .u-container-layout > a,
     a
     {
-        color: #c0c0c0;
+        color: #f2f2f2;
     }
     .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header a:hover,
     .u-gradient > .u-container-layout > a:hover,
     .u-image:not(.u-shading) > .u-container-layout > a:hover,
     a:hover
     {
-        color: #adadad;
+        color: #dadada;
     }
     .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header .u-btn,
     .u-gradient > .u-container-layout > .u-btn,
@@ -26523,53 +26532,53 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {background-image: none}
-.u-header .u-sheet-1 {min-height: 120px}
+.u-header .u-sheet-1 {min-height: 130px}
 .u-header .u-icon-1 {height: 103px; width: 103px; margin: 7px auto 0 -62px}
 .u-header .u-social-icons-1 {white-space: nowrap; height: 46px; min-height: 16px; width: 158px; min-width: 68px; margin: -83px 0 0 auto}
 .u-header .u-icon-2 {height: 100%}
 .u-header .u-icon-3 {height: 100%}
 .u-header .u-icon-4 {height: 100%}
-.u-header .u-text-1 {font-size: 1.5rem; margin: -28px 793px 0 41px}
+.u-header .u-text-1 {font-size: 1.5rem; font-weight: 700; font-family: "Bai Jamjuree"; margin: -28px 749px 0 85px}
 .u-header .u-menu-1 {margin: 1px auto 7px 405px}
-.u-header .u-nav-1 {font-size: 1rem; letter-spacing: 0; font-weight: 700; text-transform: uppercase}
+.u-header .u-nav-1 {font-size: 1rem; letter-spacing: 0; text-transform: uppercase; font-weight: 700; font-family: "Bai Jamjuree"}
 .u-header .u-nav-2 {font-size: 1rem} 
 @media (max-width: 1199px){ .u-header {min-height: 120px}
-.u-header .u-sheet-1 {min-height: 120px}
-.u-header .u-icon-1 {margin-top: -203px}
-.u-header .u-social-icons-1 {margin-top: -155px}
-.u-header .u-text-1 {margin-top: 52px; margin-right: 634px; margin-left: 0}
-.u-header .u-menu-1 {margin-top: -70px; margin-left: 205px} }
+.u-header .u-icon-1 {animation-duration: 10000ms}
+.u-header .u-text-1 {margin-right: 634px; margin-left: 0}
+.u-header .u-menu-1 {margin-left: 205px} }
 @media (max-width: 991px){ .u-header .u-text-1 {margin-right: 414px}
 .u-header .u-menu-1 {margin-left: 0} }
 @media (max-width: 767px){ .u-header {min-height: 148px}
 .u-header .u-sheet-1 {min-height: 148px}
-.u-header .u-icon-1 {margin-top: 446px}
-.u-header .u-social-icons-1 {margin-top: -772px; margin-right: 300px}
+.u-header .u-social-icons-1 {margin-right: 300px}
 .u-header .u-text-1 {margin-right: 534px; margin-left: 300px}
 .u-header .u-menu-1 {margin-left: 300px} }
 @media (max-width: 575px){ .u-header .u-sheet-1 {min-height: 134px}
-.u-header .u-icon-1 {height: 51px; width: 51px; margin-top: 74px; margin-left: -20px}
-.u-header .u-social-icons-1 {margin-top: -107px; margin-right: auto; margin-left: 218px}
-.u-header .u-text-1 {width: auto; margin-top: 16px; margin-right: 135px; margin-left: 32px}
-.u-header .u-menu-1 {width: auto; margin-top: -38px; margin-bottom: 0; margin-left: 340px} }
- .u-footer {background-image: linear-gradient(#24384a, #292e33)}
-.u-footer .u-sheet-1 {min-height: 411px}
-.u-footer .u-map-1 {width: 570px; height: 228px; margin: 49px auto 0}
-.u-footer .u-social-icons-1 {white-space: nowrap; height: 32px; min-height: 16px; width: 116px; min-width: 68px; margin: 59px auto 0}
-.u-footer .u-icon-1 {height: 100%}
+.u-header .u-icon-1 {height: 51px; width: 51px; margin-left: 6px}
+.u-header .u-social-icons-1 {height: 36px; width: 127px; margin-top: -32px; margin-right: 0}
+.u-header .u-text-1 {width: auto; margin-top: -18px; margin-right: 80px; margin-left: 86px}
+.u-header .u-menu-1 {width: auto; margin-left: 0} }
+ .u-footer .u-sheet-1 {min-height: 450px}
+.u-footer .u-icon-1 {height: 94px; width: 94px; background-image: none; margin: 3px auto 0}
+.u-footer .u-group-1 {width: 800px; min-height: 344px; margin: -10px auto 19px}
+.u-footer .u-container-layout-1 {padding: 30px}
+.u-footer .u-text-1 {margin: 0 auto}
+.u-footer .u-text-2 {margin-left: auto; margin-right: auto; margin-bottom: 0}
+.u-footer .u-map-1 {width: 370px; height: 148px; margin: 19px auto 0}
+.u-footer .u-social-icons-1 {white-space: nowrap; height: 32px; min-height: 16px; width: 136px; min-width: 88px; margin: 20px auto -41px}
 .u-footer .u-icon-2 {height: 100%}
 .u-footer .u-icon-3 {height: 100%}
-.u-footer .u-text-1 {width: 417px; margin: 21px 362px 40px} 
-@media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px}
-.u-footer .u-text-1 {margin-left: 262px; margin-right: 262px} }
-@media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px}
-.u-footer .u-text-1 {margin-left: 152px; margin-right: 152px} }
-@media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 57px}
-.u-footer .u-map-1 {width: 540px}
-.u-footer .u-text-1 {margin-left: 62px; margin-right: 62px} }
-@media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 36px}
-.u-footer .u-map-1 {width: 340px}
-.u-footer .u-text-1 {width: 340px; margin-left: 0; margin-right: 0} }
+.u-footer .u-icon-4 {height: 100%} 
+@media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 298px}
+.u-footer .u-group-1 {margin-top: -10px} }
+@media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 428px}
+.u-footer .u-group-1 {width: 720px} }
+@media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 709px}
+.u-footer .u-group-1 {width: 540px}
+.u-footer .u-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+@media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 450px}
+.u-footer .u-group-1 {width: 340px}
+.u-footer .u-map-1 {width: 320px} }
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
