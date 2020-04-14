@@ -23,8 +23,12 @@
 .u-section-1 .u-image-1 {min-height: 452px}
 .u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
 
-@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 493px}
-.u-section-1 .u-image-1 {min-height: 285px} }.u-section-2 {background-image: linear-gradient(#292e33, #24384a)}
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 505px}
+.u-section-1 .u-layout-wrap-1 {margin-top: 0; margin-bottom: 25px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-layout-cell-1 {min-height: 238px}
+.u-section-1 .u-text-1 {margin-top: 65px}
+.u-section-1 .u-text-2 {margin-top: 10px; margin-bottom: -56px}
+.u-section-1 .u-image-1 {min-height: 242px} }.u-section-2 {background-image: linear-gradient(#292e33, #24384a)}
 .u-section-2 .u-sheet-1 {min-height: 508px}
 .u-section-2 .u-layout-wrap-1 {margin: 60px auto 60px 0}
 .u-section-2 .u-layout-cell-1 {min-height: 401px; background-image: none}
@@ -63,7 +67,14 @@
 .u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
 .u-section-2 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
 
-@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 105px} }.u-section-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/Digital-Active---Photo-La-Rochelle-600x399.png")}
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 105px}
+.u-section-2 .u-layout-cell-1 {min-height: 282px}
+.u-section-2 .u-btn-1 {margin-top: 12px}
+.u-section-2 .u-layout-cell-2 {min-height: 303px}
+.u-section-2 .u-icon-2 {margin-left: auto}
+.u-section-2 .u-btn-2 {margin-top: 8px}
+.u-section-2 .u-layout-cell-3 {min-height: 267px}
+.u-section-2 .u-btn-3 {margin-top: 8px} }.u-section-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/Digital-Active---Photo-La-Rochelle-600x399.png")}
 .u-section-3 .u-sheet-1 {min-height: 529px}
 .u-section-3 .u-layout-wrap-1 {margin: 60px auto 60px 0}
 .u-section-3 .u-layout-cell-1 {min-height: 409px}
